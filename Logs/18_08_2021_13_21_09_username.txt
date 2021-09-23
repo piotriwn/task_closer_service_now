@@ -1,0 +1,18 @@
+Logging in to Service Now... Success.
+Loading CSV... Success.
+
+------------------------
+Parsing task ['TASK1111111'].
+Attempting to reach filter page... Success.
+Attempting to click on filter icon...Success.
+Attempting to gather elements inside filter... Success.
+Attempting to add keyword element if not present... Keywords not present. Attempting to add keyword condition... Success.
+Attempting to search for the task... Success.
+Attempting to open the task... Success.
+Attempting to check if the task has already been closed...Status has been retrieved.
+Ticket ['TASK1111111'] has not been closed.
+Attempting to assign the ticket... Success.
+Attempting to paste a worknote... Success.
+Attempting to change the status of the ticket... Success.
+-----> ['TASK1111111'] has been closed SUCCESSFULLY.
+
